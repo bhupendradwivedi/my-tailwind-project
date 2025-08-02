@@ -116,8 +116,9 @@ body {
 }
 
 .hero-text h1 {
-  font-size: 4rem;
+  font-size: 3.8rem;
   color: #223A58;
+  font-weight: 600; 
 
 }
 
@@ -199,6 +200,25 @@ body {
 }
 .icon img{
   background-color:  #000;
+}
+.certi{
+  width: max-content;
+  display:flex ;
+  align-items: center;
+  justify-content:center;
+  margin-top: 40px;
+  gap: 30px;
+  
+   
+}
+.certi p{
+  font-size: large;
+  font-weight: 500;
+}
+.certi i{
+  margin: 5px;
+  color: #1565c0;
+  font-size: 22px;
 }
 /* next page */
 
